@@ -1,3 +1,3 @@
 # Random-challenges
 
-In this repository i collect every challenge i find interesting to solve ( ͡° ͜ʖ ͡°)
+In this repository i collect every challenge i find interesting to solve. ( ͡° ͜ʖ ͡°)
