@@ -1,5 +1,4 @@
-// Solution №1
-// with switch:
+// Solution №1 with switch:
 
 const firstFizzBuzz = () => {
   for (let number = 1; number <= 100; number += 1) {
