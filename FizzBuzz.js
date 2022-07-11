@@ -18,7 +18,7 @@ const firstFizzBuzz = () => {
   }
 };
 
-fizzBuzzFirst();
+firstFizzBuzz();
 
 // Solution №2:
 
@@ -34,4 +34,4 @@ const secondfizzBuzz = () => {
   }
 };
 
-fizzBuzzSecond();
+secondfizzBuzz();
