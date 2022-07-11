@@ -1,6 +1,6 @@
 // Solution №1:
 
-const fizzBuzzFirst = () => {
+const firstFizzBuzz = () => {
   for (let number = 1; number <= 100; number += 1) {
     switch (true) {
       case (number % 3 === 0 && number % 5 === 0):
@@ -22,7 +22,7 @@ fizzBuzzFirst();
 
 // Solution №2:
 
-const fizzBuzzSecond = () => {
+const secondfizzBuzz = () => {
   for (let number = 1; number <= 100; number += 1) {
     let output = '';
     if (number % 3 === 0) {
