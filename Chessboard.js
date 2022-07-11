@@ -1,4 +1,4 @@
-// Solution №1:
+// Solution:
 
 const firstChessboard = (size) => {
   let board = '';
